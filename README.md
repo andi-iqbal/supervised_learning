@@ -2,6 +2,12 @@
 Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mempelajari teknik-teknik supervised learning menggunakan scikit-learn dan jcopml.
 
 # Starter Guide
+
+## Step 0: Nonton Video Introduction to Machine Learning
+
+- [Belajar Machine Learning dari 0](https://www.youtube.com/watch?v=R8LVJVmpQYs&list=PLGn1wRmlR3MumUohwvPDyaptik4m11he7)
+- [Apa itu Machine Learning dan Jenisnya](https://www.youtube.com/watch?v=Rot3W_gP-0c&list=PLGn1wRmlR3MumUohwvPDyaptik4m11he7&index=2)
+
 ## Step 1: Download materi
 - Klik disini untuk [Download ZIP](https://codeload.github.com/WiraDKP/supervised_learning/zip/master), atau
 - Bagi yang familiar dengan git, boleh menggunakan clone
@@ -64,6 +70,7 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
     ```
     conda env create -f env_jcopml.yml
     ```
+- Panduan lebih lanjut untuk [instalasi](https://www.notion.so/muhammadramadiansyah/Batch-Installation-Step-8ac7dc6bd90948dab756a68f0f4fe71a)
 
 ## Step 5: Memastikan environment terinstall dengan baik
 - Jalankan command berikut untuk mengecek instalasi dan ikuti instruksi yang dihasilkan
