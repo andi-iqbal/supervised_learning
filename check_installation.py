@@ -1,10 +1,11 @@
 import subprocess
 
 req = {
-    "python", "nb_conda_kernels", "pip", "ipython", "numpy", "scipy", "pandas", 
-    "scikit-learn", "matplotlib", "seaborn", "pydotplus", "ipywidgets", "jcopml", "luwiji"
+    "python", "tqdm", "nb_conda_kernels", "pip", "ipython", "numpy", "scipy", "pandas", 
+    "scikit-learn", "matplotlib", "seaborn", "ipywidgets", "nltk", 
+    "xgboost", "scikit-optimize", "jcopml", "luwiji", "pillow"
 }
-env_name = "jcopml_online"
+env_name = "jcopml"
 working_folder = "supervised_learning"
 env_file = "env_jcopml.yml"
 
